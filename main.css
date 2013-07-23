@@ -137,6 +137,12 @@ li:last-child a:hover{
 	text-align: center;
 }
 
+.center_headings .bs_center_headings{
+	position: relative;
+	width: 810px;
+	text-align: center;
+}
+
 h1{
 	font-size: 58px;
 	line-height: 58px;
