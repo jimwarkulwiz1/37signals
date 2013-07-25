@@ -223,14 +223,14 @@ h4 a{
 
 #bc_arrow{
 	position: relative;
-	top: 190px;
+	top: 50px;
 	left: -140px;
 	display: none;
 }
 
 #hr_arrow{
 	position: relative;
-	top: 120px;
+	top: 45px;
 	left: 80px;
 	display: none;
 }
