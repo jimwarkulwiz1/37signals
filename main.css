@@ -137,10 +137,25 @@ li:last-child a:hover{
 	text-align: center;
 }
 
-.center_headings .bs_center_headings{
+.bc_headings{
 	position: relative;
 	width: 810px;
 	text-align: center;
+	display: none;
+}
+
+.hr_headings{
+	position: relative;
+	width: 810px;
+	text-align: center;
+	display: none;
+}
+
+.cf_headings{
+	position: relative;
+	width: 810px;
+	text-align: center;
+	display: none;
 }
 
 h1{
@@ -200,6 +215,18 @@ h4 a{
 
 .app_abilities *{
 	padding: 4px 5px;
+}
+
+#bc_arrow{
+	position: relative;
+}
+
+#hr_arrow{
+	position: relative;
+}
+
+#cf_arrow{
+	position: relative;
 }
 
 #asterisks{
