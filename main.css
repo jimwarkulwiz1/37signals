@@ -137,6 +137,13 @@ li:last-child a:hover{
 	text-align: center;
 }
 
+#container{
+	text-align: center;
+	margin: auto;
+	width: 810px;
+	height: 275px;
+}
+
 .bc_hover{
     text-align: center;
 }
