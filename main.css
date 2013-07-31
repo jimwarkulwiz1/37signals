@@ -196,19 +196,55 @@ h4 a{
 	padding: 4px 5px;
 }
 
+.container{
+	height: 253px;
+}
+
+
+
 #bc_arrow{
 	display: none;
 	position: absolute;
+	top: 390px;
+	left: 475px;
 }
 
 #hr_arrow{
 	display: none;
 	position: absolute;
+	top: 390px;
+	left: 700px;
 }
 
 #cf_arrow{
 	display: none;
 	position: absolute;
+	top: 390px;
+	right: 470px;
+}
+
+.bc_headings{
+	display: none;
+}
+
+.bc_headings a{
+	color: #526fb2;
+}
+
+.hr_headings{
+	display: none;
+}
+
+.hr_headings a{
+	color: #526fb2;
+}
+
+.cf_headings{
+	display: none;
+}
+
+.cf_headings a{
+	color: #526fb2;
 }
 
 #asterisks{
